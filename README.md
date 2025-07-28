@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=supratim0406&label=Profile%20views&color=0e75b6&style=flat" alt="supratim0406" /> </p>
 
-- 🔭 I’m currently working on **Data Science projects**
+- 🔭 I’m currently working on **Data Science and ML projects**
 
-- 🌱 I’m currently learning **Gen AI and Agentic AI**
+- 🌱 I’m currently learning **Generative AI**
 
 - 👯 I’m looking to collaborate on **any end to end Data science project.**
 
