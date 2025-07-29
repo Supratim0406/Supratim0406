@@ -1,3 +1,4 @@
+![MasterHead](https://media.licdn.com/dms/image/C4D12AQESj72-s5gEKg/article-cover_image-shrink_600_2000/0/1626753867110?e=2147483647&v=beta&t=Kf7YAuwZtyCGYLNch-Mgc5eOC-7h7uL_dnBAIgsAFRQ)
 <h1 align="center">Hi 👋, I'm Supratim Saha</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 
@@ -5,7 +6,7 @@
 
 - 🔭 I’m currently working on **Data Science and ML projects**
 
-- 🌱 I’m currently learning **Generative AI**
+- 🌱 I’m currently learning **Deep learning**, **Generative AI** etc.
 
 - 👯 I’m looking to collaborate on **any end to end Data science project.**
 
